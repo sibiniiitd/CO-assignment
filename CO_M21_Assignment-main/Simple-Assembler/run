@@ -70,3 +70,4 @@ while True:
     else:
         lst2.append(d)
         count = count + 1
+ans(lst2)
